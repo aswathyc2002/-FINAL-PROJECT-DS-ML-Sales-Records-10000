@@ -36,12 +36,20 @@ Supervised Learning (Classification): Target Variable: Unit Price (encoded into 
 
 Models used:
 
+
 Logistic Regression
+
+
 Decision Tree
+
 Random Forest
+
 K-Nearest Neighbors
+
 Gradient Boosting
+
 ✅ Accuracy Comparison: Model Accuracy Decision Tree 1.000 Random Forest 1.000 Gradient Boosting 1.000 Logistic Regression 0.9728 K-Nearest Neighbors 0.5899
+
 
 5.🔍 Best Model:
 
